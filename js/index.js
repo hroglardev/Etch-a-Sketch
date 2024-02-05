@@ -27,7 +27,7 @@ createRows(16)
 // }
 
 // comment this function and the next one if you want the color to remain black
-const generateRandomColor = () => {
+const generateRandomNumber = () => {
   let randomNumber = Math.round(Math.random() * 255)
   return randomNumber
 }
@@ -40,11 +40,11 @@ const randomColorPixel = (element) => {
   while (counter <= 3) {
     switch (counter) {
       case 1:
-        firstNumber = generateRandomColor()
+        firstNumber = generateRandomNumber()
       case 2:
-        secondNumber = generateRandomColor()
+        secondNumber = generateRandomNumber()
       case 3:
-        thirdNumber = generateRandomColor()
+        thirdNumber = generateRandomNumber()
       default:
         break
     }
@@ -95,7 +95,7 @@ resetButton.addEventListener('click', resetSketch)
 const createGrid = () => {
   let size = Number(prompt('What grid size do you want?'))
   while (size > 100 || size < 4) {
-    size = Number(prompt('Must be an even number between 100 and 4'))
+    size = Number(prompt('Must be a number between 100 and 4'))
   }
   newGrid(size)
 }
