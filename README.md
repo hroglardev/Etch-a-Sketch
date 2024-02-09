@@ -23,6 +23,10 @@ Below you can read what new concepts I implemented during this project.
   <li>Use of functions to randomise some values.</li>
 </ul>
 
+# Want to see it in action?
+
+<a href="https://hroglardev.github.io/Etch-a-Sketch/" target="_blank">Click here</a>
+
 # Explanation of the code
 
 <img src="./docs-images/1.JPG" alt="Code initializes by capturing the grid's DOM element. A function deletes existing elements with class 'row' in the DOM, allowing user input for a new grid size. The function creates elements iteratively based on a parameter 'n', appends them to the parent node, and is initially called with a default value of 16.">
@@ -77,20 +81,18 @@ Once the loop is done, the newGrid function is called with the new size passed a
 
 Finally we find the event handler for the button who handles the previous function.
 
-# Want to see it in action?
-
-<a href="https://hroglardev.github.io/Etch-a-Sketch/">Click here</a>
-
 # Want to track my progress?
 
 Checkout my other projects in order to see my evolution:
 
 <ol>
-  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
+   <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
   <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">Landing Page</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">Console Rock, Paper, Scissors</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
   <li><a href="https://github.com/hroglardev/Etch-a-Sketch" target="_blank">You are here</a></li>
   <li><a href="https://github.com/hroglardev/Calculator" target="_blank">Calculator</a></li>
   <li><a href="https://github.com/hroglardev/Sign-up-form-TOP" target="_blank">Sign up form</a></li>
+  <li><a href="https://github.com/hroglardev/Dashboard" target="_blank">Dashboard</a></li>
+  <li><a href="https://github.com/hroglardev/Library" target="_blank">Library</a></li>
 </ol>
