@@ -86,7 +86,7 @@ Finally we find the event handler for the button who handles the previous functi
 Checkout my other projects in order to see my evolution:
 
 <ol>
-   <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
+  <li><a href="https://github.com/hroglardev/odin-recipes" target="_blank">Recipes</a></li>
   <li><a href="https://github.com/hroglardev/Odin-landing-page" target="_blank">Landing Page</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP-Console" target="_blank">Console Rock, Paper, Scissors</a></li>
   <li><a href="https://github.com/hroglardev/Rock-Paper-Scissors-TOP" target="_blank">Rock, Paper, Scissors</a></li>
@@ -95,4 +95,7 @@ Checkout my other projects in order to see my evolution:
   <li><a href="https://github.com/hroglardev/Sign-up-form-TOP" target="_blank">Sign up form</a></li>
   <li><a href="https://github.com/hroglardev/Dashboard" target="_blank">Dashboard</a></li>
   <li><a href="https://github.com/hroglardev/Library" target="_blank">Library</a></li>
+  <li><a href="https://github.com/hroglardev/Tic-tac-toe" target="_blank">Tic-tac-toe</a></li>
+  <li><a href="https://github.com/hroglardev/Restaurant-page" target="_blank">Restaurant page</a></li>
+  <li><a href="https://github.com/hroglardev/To-do-list-js" target="_blank">To-do list</a></li>
 </ol>
